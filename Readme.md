@@ -48,7 +48,7 @@ cd recipe-sharing-platform
 
 2. Install Backend Dependencies
    
-cd backend
+cd backend,
 npm install
 
 3. run backend server
